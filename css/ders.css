@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#kv{
+    background-color: rgb(238, 199, 47);
+    width: 80%;
+    height: 620px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 18px;
+}
+#kv .a1{
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+#kv .orta{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 56px;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    font-weight: 800;
+    font-size: 24px;
+}
+.b1{
+    margin-top: 10px;
+}
+.b1 .c1{
+    width: 100%;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+}
+#cent{
+    margin-top: 20px;
+}
+#cent .b2{
+    width: 160px;
+    margin: auto;
+    margin-top: 14px;
+    transition: 0.3s;
+}
+#cent .b2:hover{
+    margin-top: 4px;
+}
+#cent .b2 button{
+    width:160px;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 20px;
+    color:  rgb(238, 199, 47);
+    transition: 0.1s;
+    font-weight: 700;
+}
+#cent .b2 button:hover{
+    background-color: white;
+    color: black;
+}
+.aa1{
+    width: 100%;
+    height: 50%;
+    position: relative;
+}
+.aa1 img{
+    width: 280px;
+    margin-top: 30px;
+    position: absolute;
+}
+.l1{
+    width: 100%;
+    height: 30%;
+}
+.l2{
+    width: 100%;
+    height: 40%;
+}
+.l2 img{
+    width: 280px;
+}
+label{
+    font-weight: 800;
+    font-size: 16px;
+}
